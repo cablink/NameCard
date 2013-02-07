@@ -1,5 +1,5 @@
 //
-//  NCViewController.h
+//  NCDetailViewController.h
 //  NameCard
 //
 //  Created by 杨昊 on 12-11-17.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface NCViewController : UIViewController
+@interface NCDetailViewController : UIViewController
 
 @end
